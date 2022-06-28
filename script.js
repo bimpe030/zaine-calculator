@@ -1,5 +1,5 @@
 function calculator(){
-    let calculate = prompt("What action would you like to perform (Addition, Sutraction, Multiplication or Division)");
+    let calculate = prompt("What action would you like to perform (Addition, Subtraction, Multiplication or Division)");
 
 
     if (calculate == "addition"){
